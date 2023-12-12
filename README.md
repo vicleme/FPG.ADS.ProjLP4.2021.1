@@ -1,5 +1,7 @@
 # FPG.ADS.ProjLP4.2021.1
-Aplicação web simples, com apresentação, cadastro e login. Projeto de Linguagem de Programação IV - Internet, disciplina do curso de ADS da Fatec PG.
+🇧🇷 pt-br: Aplicação web simples, com apresentação, cadastro e login. Projeto de Linguagem de Programação IV - Internet, disciplina do curso de ADS da Fatec PG.
+
+🇺🇸 en-us: Simple web application, with presentation, registration and login. Programming Language Project IV - Internet, subject from the Systems Analysis and Development course at the Technology College (Fatec) in Praia Grande.
 
 ![Início](https://github.com/vicleme/FPG.ADS.ProjLP4.2021.1/assets/51094363/00d74768-cb13-401a-a2ed-25876e68dcac)
 ![Cadastro](https://github.com/vicleme/FPG.ADS.ProjLP4.2021.1/assets/51094363/a1e8b34e-4c0b-4f89-b989-ca0223ad75c4)
